@@ -10,5 +10,11 @@
 		"author" : "Pingendo",
 		"preview" : "http://pingendo.github.io/bootstrap-templates/basic/preview.png",
 		"html" : "http://pingendo.github.io/bootstrap-templates/basic/index.html"
+	},
+	{
+		"name" : "Cover",
+		"author" : "Pingendo",
+		"preview" : "http://pingendo.github.io/bootstrap-templates/cover/preview.png",
+		"html" : "http://pingendo.github.io/bootstrap-templates/cover/index.html"
 	}
 ]
