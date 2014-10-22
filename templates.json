@@ -1,0 +1,20 @@
+[
+	{
+		"name" : "Empty",
+		"author" : "Pingendo",
+		"preview" : "http://pingendo.github.io/bootstrap-templates/empty/preview.png",
+		"html" : "http://pingendo.github.io/bootstrap-templates/empty/index.html"
+	},
+	{
+		"name" : "Basic",
+		"author" : "Pingendo",
+		"preview" : "http://pingendo.github.io/bootstrap-templates/basic/preview.png",
+		"html" : "http://pingendo.github.io/bootstrap-templates/basic/index.html"
+	},
+	{
+		"name" : "Cover page",
+		"author" : "Pingendo",
+		"preview" : "http://pingendo.github.io/bootstrap-templates/cover/preview.png",
+		"html" : "http://pingendo.github.io/bootstrap-templates/cover/index.html"
+	}
+]
