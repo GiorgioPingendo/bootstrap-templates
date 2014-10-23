@@ -1,11 +1,5 @@
 [
 	{
-		"name" : "Empty",
-		"author" : "Pingendo",
-		"preview" : "http://pingendo.github.io/bootstrap-templates/empty/preview.png",
-		"html" : "http://pingendo.github.io/bootstrap-templates/empty/index.html"
-	},
-	{
 		"name" : "Basic",
 		"author" : "Pingendo",
 		"preview" : "http://pingendo.github.io/bootstrap-templates/basic/preview.png",
@@ -22,5 +16,11 @@
 		"author" : "Pingendo",
 		"preview" : "http://pingendo.github.io/bootstrap-templates/admin/preview.png",
 		"html" : "http://pingendo.github.io/bootstrap-templates/admin/index.html"
+	},
+	{
+		"name" : "Empty",
+		"author" : "Pingendo",
+		"preview" : "http://pingendo.github.io/bootstrap-templates/empty/preview.png",
+		"html" : "http://pingendo.github.io/bootstrap-templates/empty/index.html"
 	}
 ]
