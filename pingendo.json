@@ -1,4 +1,7 @@
-[
-    "admin/index2.html", 
-    "cover/index.html"
-]
+{
+    "files": [
+        "admin/index.html",
+        "cover/index.html"
+    ],
+    "assets": "imgs"
+}
